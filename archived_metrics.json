@@ -1,0 +1,48 @@
+{
+  "date": "2026-09-05",
+  "evaluation": "historical outer-fold aggregate; upstream provenance still requires audit",
+  "fusion": {
+    "table": {
+      "n": 1240,
+      "accuracy": 0.6709677419354839,
+      "balanced_accuracy": 0.6709092044851173,
+      "f1": 0.6650246305418719,
+      "roc_auc": 0.6711226327680087,
+      "tn": 427,
+      "fp": 207,
+      "fn": 201,
+      "tp": 405
+    },
+    "current_topk": {
+      "n": 1240,
+      "accuracy": 0.6725806451612903,
+      "balanced_accuracy": 0.6724500525762356,
+      "f1": 0.6655683690280065,
+      "roc_auc": 0.6744515934243267,
+      "tn": 430,
+      "fp": 204,
+      "fn": 202,
+      "tp": 404
+    },
+    "phasewise_topk": {
+      "n": 1240,
+      "accuracy": 0.6741935483870968,
+      "balanced_accuracy": 0.6740637786176094,
+      "f1": 0.6672158154859967,
+      "roc_auc": 0.675792027152242,
+      "tn": 431,
+      "fp": 203,
+      "fn": 201,
+      "tp": 405
+    },
+    "delta_vs_current": 0.001612903225806428,
+    "won_vs_current": 3,
+    "lost_vs_current": 1
+  },
+  "video": {
+    "current_pair_auc": 0.6298586572438163,
+    "fused_pair_auc": 0.6263250883392226,
+    "current_auc": 0.7178998656963489,
+    "fused_auc": 0.716666146109879
+  }
+}

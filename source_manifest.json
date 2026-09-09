@@ -1,0 +1,117 @@
+[
+  {
+    "path": "research/cell_train3/evaluate_phasewise_vjepa_nested_topk.py",
+    "sha256": "f4dd8f087a919063220e78d34520865499647860accd98c6c01bd86890a852d4",
+    "bytes": 6821
+  },
+  {
+    "path": "research/cell_train3/evaluate_updated_table_video_topk.py",
+    "sha256": "f521e02d8bed77c2ba2d515688547da9eb2430328c5c70eb2e73df1d0340f9b0",
+    "bytes": 3547
+  },
+  {
+    "path": "research/cell_train3/evaluate_pls2_video_topk.py",
+    "sha256": "e25f0b096a3b26dc5a1b0f7919fc3565a2cb501491406b2da46f6f982b0e4680",
+    "bytes": 2229
+  },
+  {
+    "path": "research/cell_train3/evaluate_vjepa21_phasewise_fixed_oof.py",
+    "sha256": "541a1b1f132ae9ea4a9ec07cb4887ab60fb2fa36fdfd69cef50e73e2ce99acd7",
+    "bytes": 4059
+  },
+  {
+    "path": "research/cell_train3/evaluate_vjepa21_nested_rank_topk.py",
+    "sha256": "a85f649de4970ce4235a041816daf2603945b4f4da9eb2e8f75c43c123d1b57f",
+    "bytes": 11128
+  },
+  {
+    "path": "research/cell_train3/extract_vjepa21_phasewise_features.py",
+    "sha256": "53efe14cacd76f8c669b5647214c43ecab561a255ca9e1160cde247fcfdfce26",
+    "bytes": 3653
+  },
+  {
+    "path": "research/cell_train3/extract_vjepa21_features.py",
+    "sha256": "266f159b78f4ae20be90a972563df72b3d9225f22bc854e6655124a01495facf",
+    "bytes": 5026
+  },
+  {
+    "path": "research/cell_train3/evaluate_qwen_text_heads_v2.py",
+    "sha256": "f670fd21d0502d96c2f3889f50ccca4602760a2f2796971a8b050c5811577c7e",
+    "bytes": 3872
+  },
+  {
+    "path": "research/cell_train3/evaluate_qwen_clinical_text_cycle.py",
+    "sha256": "8c9308fb9c9f9ab613e1e9bb9cd13f0eb6c8407be7093181d78992ffb8e6672f",
+    "bytes": 4943
+  },
+  {
+    "path": "research/cell_train3/cycle_count_topk_bestvideo_v1/run_best_video_topk.py",
+    "sha256": "45578e7d1451b988a321914780de90fe610aecc92a59d413e10751afd836c972",
+    "bytes": 10983
+  },
+  {
+    "path": "research/cell_train3/cycle_count_topk_bestvideo_v1/prepare_best_video_input.py",
+    "sha256": "40719ab54dbe175d8afd5e8414af15eb32a98d5908dd0830414eebd20aa13bb5",
+    "bytes": 1657
+  },
+  {
+    "path": "research/cell_train3/cycle_count_topk_v1/run_cycle_count_topk.py",
+    "sha256": "e6364ab779e54e7d37c6ec879676223a92dac1bbab109eb2f47c9a8b9f67ccbf",
+    "bytes": 12503
+  },
+  {
+    "path": "research/cell_train3/raw_video_sibling_ssl_v1/common.py",
+    "sha256": "a6ec375a2aa6b086396197000578d88c87b837a4f960fd2bfcfab43e903908a1",
+    "bytes": 12000
+  },
+  {
+    "path": "research/cell_train3/updated_table_tjf_v1/run_locked_endocrine_residual.py",
+    "sha256": "2053aa17664f16e396899d1f3a4a41d1a00f12a617241b860bb845c04d9b7d16",
+    "bytes": 9830
+  },
+  {
+    "path": "research/cell_train3/updated_table_tjf_v1/run_update_variants.py",
+    "sha256": "e47a31c40e82d58a516f5c8286f1b735feaa033b608c3977831c40ea4f1f059c",
+    "bytes": 8068
+  },
+  {
+    "path": "research/cell_train3/updated_table_tjf_v1/audit_updated.py",
+    "sha256": "a59b32ec051c8782930affbc138f15f1de89362113fb3f987e12d8549b810c6a",
+    "bytes": 7708
+  },
+  {
+    "path": "research/cell_train3/deployable_table_distill_v1/train_distill.py",
+    "sha256": "54ce2e7d78c6f2861358afdc2d4d1d160db4743c6ab72c458490f6894e956242",
+    "bytes": 9259
+  },
+  {
+    "path": "research/cell_train3/table_group_side_v1/prepare_data.py",
+    "sha256": "34fa8218667bb0037e854e0eccee708384a4bf28f75436319778938a0a21cdbe",
+    "bytes": 12699
+  },
+  {
+    "path": "research/cell_train3/table_group_side_v1/run_cv.py",
+    "sha256": "69cbc25b9c3bf07b5c575e80eec903984f4f5b53d578eedec95d30623a067366",
+    "bytes": 23369
+  },
+  {
+    "path": "research/cell_train3/table_group_side_v1/run_continue_v2.py",
+    "sha256": "2b33619cd0da0bd86ddf298b2c0917c119fa3e4569f2116baf3fe3447869be93",
+    "bytes": 15907
+  },
+  {
+    "path": "research/cell_train3/table_group_side_v1/run_doctor_core_fast.py",
+    "sha256": "cfd235642809a586b165ba87e7d9e5afd5f3d3c74d6a5c28cc55a058439b96a0",
+    "bytes": 11007
+  },
+  {
+    "path": "research/cell_train3/table_group_side_v1/run_multiview.py",
+    "sha256": "db9c84c841b38b6aaeac5410542fa3eafc09673292971d6a0296cdef99abede3",
+    "bytes": 16563
+  },
+  {
+    "path": "research/cell_train3/dual_video_stacking_v1/run_dual_video_stacking.py",
+    "sha256": "def77a0ecff0962344882d10650856fb3970dc18e20af8730ef0e55d3aa181f9",
+    "bytes": 12709
+  }
+]

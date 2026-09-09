@@ -1,0 +1,15 @@
+# 归档源码的直接依赖，不是经过全流程复现验证的版本锁文件。
+numpy
+pandas
+scipy
+scikit-learn>=1.2
+xgboost
+joblib
+openpyxl
+# GPU包应按CUDA版本安装，勿在生产训练环境直接升级。
+torch
+torchvision
+pytorchvideo
+opencv-python
+Pillow
+sentence-transformers
